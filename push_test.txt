@@ -1,12 +1,5 @@
 this is a puch test.
 
-this is a branch test.   
+this is a branch test. 
 
-
-
-master update!
-
-f1 update!
-
-
-new update for dev!
+Bug branch test.
